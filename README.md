@@ -15,4 +15,4 @@ The following scripts are included in the repository:
 
 ### Reference
 
-Finch E, Lowe S, Fischinger S et al. SARS-CoV-2 infection and reinfection in a seroepidemiological workplace cohort in the United States, 2021.
+Finch E, Lowe R, Fischinger S et al. SARS-CoV-2 infection and reinfection in a seroepidemiological workplace cohort in the United States, 2021.
