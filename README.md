@@ -13,6 +13,6 @@ The following scripts are included in the repository:
 -`appendix-odds-ratio-comparison-figure.R` - to reproduce Figure 1 of the appendix comparing unadjusted and adjusted odds ratios.
 
 
-# Reference
+### Reference
 
 Finch E, Lowe S, Fischinger S et al. SARS-CoV-2 infection and reinfection in a seroepidemiological workplace cohort in the United States, 2021.
