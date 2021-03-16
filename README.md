@@ -8,9 +8,9 @@ The following scripts are included in the repository:
 
 -`odds-ratio-estimates-main-figure.R` - to reproduce the main figure showing the adjusted odds ratio moving threshold analysis.
 
--`appendix-simulation-analysis.R` - to reproduce the simulation analysis presented in the appendix (Figure 2).
+-`appendix-simulation-analysis.R` - to reproduce the simulation analysis presented in the appendix (Figure 3).
 
--`appendix-odds-ratio-comparison-figure.R` - to reproduce Figure 1 of the appendix comparing unadjusted and adjusted odds ratios.
+-`appendix-odds-ratio-comparison-figure.R` - to reproduce Figure 2 of the appendix comparing unadjusted and adjusted odds ratios.
 
 
 ### Reference
