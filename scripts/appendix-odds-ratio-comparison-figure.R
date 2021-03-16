@@ -3,7 +3,7 @@
 # Author: Emilie Finch
 
 # ---------------------------------------------------------------
-# Code to reproduce Appendix Figure 1 contrasting unadjusted odds ratios and adjusted odds ratios
+# Code to reproduce Appendix Figure 2 contrasting unadjusted odds ratios and adjusted odds ratios
 # install.packages("tidyverse")
 # install.packages("ggpubr")
 # install.packages("scales")
@@ -16,8 +16,6 @@ library(scales)
 library(epitools)
 library(binom)
 library(here)
-
-rm(list=ls(all=TRUE)) # Clear workspace
 
 # ---------------------------------------------------------------
 

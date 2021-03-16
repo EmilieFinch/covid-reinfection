@@ -7,8 +7,6 @@
 # This shows odds ratio estimates comparing odds of reinfection in seropositive individuals
 # with odds of primary infection in seronegative individuals.
 
-rm(list=ls(all=TRUE)) # Clear workspace
-
 # install.packages("tidyverse")
 # install.packages("ggpubr")
 # install.packages("scales")

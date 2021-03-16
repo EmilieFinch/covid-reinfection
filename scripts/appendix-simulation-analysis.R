@@ -4,9 +4,7 @@
 # Author: Emilie Finch
 
 # ---------------------------------------------------------------
-# Code to reproduce Appendix Methods Figure 2
-
-rm(list=ls(all=TRUE)) # Clear workspace
+# Code to reproduce Appendix Methods Figure 3
 
 # install.packages("tidyverse")
 # install.packages("ggpubr")
