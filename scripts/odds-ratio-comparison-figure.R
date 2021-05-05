@@ -3,7 +3,7 @@
 # Author: Emilie Finch
 
 # ---------------------------------------------------------------
-# Code to reproduce Appendix Figure 2 contrasting unadjusted odds ratios and adjusted odds ratios
+# Code to reproduce Figure 3 contrasting unadjusted odds ratios and adjusted odds ratios
 # install.packages("tidyverse")
 # install.packages("ggpubr")
 # install.packages("scales")
@@ -54,6 +54,6 @@ odds_ratios_plot <- ggplot(subset(odds_ratio_estimates, complete.cases(odds_rati
 odds_ratio_comparison <- ggarrange(odds_ratios_unadj_plot, odds_ratios_plot, ncol = 2, nrow = 1,  labels = c("A", "B"), font.label = list(size = 12, face = "bold", color = "black"))
 
 odds_ratio_comparison
-#ggsave("odds-ratio-plot-combined_12-03-2021.png", odds_ratio_comparison, width = 6, height = 3)
+#ggsave("odds-ratio-plot-combined.png", odds_ratio_comparison, width = 6, height = 3)
 
 

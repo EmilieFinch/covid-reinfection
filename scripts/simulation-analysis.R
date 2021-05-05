@@ -4,7 +4,7 @@
 # Author: Emilie Finch
 
 # ---------------------------------------------------------------
-# Code to reproduce Appendix Methods Figure 3
+# Code to reproduce risk ratio simulation analysis (Figure 4)
 
 # install.packages("tidyverse")
 # install.packages("ggpubr")
