@@ -6,11 +6,11 @@ The data used for both is located in the folder `data`. As this analysis used in
 
 The following scripts are included in the repository:
 
--`odds-ratio-estimates-main-figure.R` - to reproduce the main figure showing the adjusted odds ratio moving threshold analysis.
+-`odds-ratio-estimates-main-figure.R` - to reproduce the main figure (Figure 2) showing the adjusted odds ratio moving threshold analysis.
 
--`appendix-simulation-analysis.R` - to reproduce the simulation analysis presented in the appendix (Figure 3).
+-`simulation-analysis.R` - to reproduce the simulation analysis presented in Figure 4.
 
--`appendix-odds-ratio-comparison-figure.R` - to reproduce Figure 2 of the appendix comparing unadjusted and adjusted odds ratios.
+-`odds-ratio-comparison-figure.R` - to reproduce Figure 3 comparing unadjusted and adjusted odds ratios.
 
 
 ### Reference
